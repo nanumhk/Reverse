@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\12144\\.nuget\\packages\\": {}
+    "C:\\Users\\ANZELIX\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\12144\\source\\repos\\ArrayLiat\\New folder\\ArrayLiat\\ArrayLiat.csproj",
+      "projectUniqueName": "D:\\GitHubPractice\\New folder\\ArrayLiat\\ArrayLiat.csproj",
       "projectName": "ArrayLiat",
-      "projectPath": "C:\\Users\\12144\\source\\repos\\ArrayLiat\\New folder\\ArrayLiat\\ArrayLiat.csproj",
-      "packagesPath": "C:\\Users\\12144\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\12144\\source\\repos\\ArrayLiat\\New folder\\ArrayLiat\\obj\\",
+      "projectPath": "D:\\GitHubPractice\\New folder\\ArrayLiat\\ArrayLiat.csproj",
+      "packagesPath": "C:\\Users\\ANZELIX\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHubPractice\\New folder\\ArrayLiat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\12144\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ANZELIX\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
