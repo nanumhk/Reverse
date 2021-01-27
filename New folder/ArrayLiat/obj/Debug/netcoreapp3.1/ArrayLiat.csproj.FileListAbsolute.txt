@@ -1,0 +1,13 @@
+C:\Users\12144\source\repos\ArrayLiat\ArrayLiat\bin\Debug\netcoreapp3.1\ArrayLiat.exe
+C:\Users\12144\source\repos\ArrayLiat\ArrayLiat\bin\Debug\netcoreapp3.1\ArrayLiat.deps.json
+C:\Users\12144\source\repos\ArrayLiat\ArrayLiat\bin\Debug\netcoreapp3.1\ArrayLiat.runtimeconfig.json
+C:\Users\12144\source\repos\ArrayLiat\ArrayLiat\bin\Debug\netcoreapp3.1\ArrayLiat.runtimeconfig.dev.json
+C:\Users\12144\source\repos\ArrayLiat\ArrayLiat\bin\Debug\netcoreapp3.1\ArrayLiat.dll
+C:\Users\12144\source\repos\ArrayLiat\ArrayLiat\bin\Debug\netcoreapp3.1\ArrayLiat.pdb
+C:\Users\12144\source\repos\ArrayLiat\ArrayLiat\obj\Debug\netcoreapp3.1\ArrayLiat.csprojAssemblyReference.cache
+C:\Users\12144\source\repos\ArrayLiat\ArrayLiat\obj\Debug\netcoreapp3.1\ArrayLiat.AssemblyInfoInputs.cache
+C:\Users\12144\source\repos\ArrayLiat\ArrayLiat\obj\Debug\netcoreapp3.1\ArrayLiat.AssemblyInfo.cs
+C:\Users\12144\source\repos\ArrayLiat\ArrayLiat\obj\Debug\netcoreapp3.1\ArrayLiat.csproj.CoreCompileInputs.cache
+C:\Users\12144\source\repos\ArrayLiat\ArrayLiat\obj\Debug\netcoreapp3.1\ArrayLiat.dll
+C:\Users\12144\source\repos\ArrayLiat\ArrayLiat\obj\Debug\netcoreapp3.1\ArrayLiat.pdb
+C:\Users\12144\source\repos\ArrayLiat\ArrayLiat\obj\Debug\netcoreapp3.1\ArrayLiat.genruntimeconfig.cache
