@@ -16,6 +16,8 @@ namespace ArrayLiat
                 Console.WriteLine(value);
 
             }
+            string a = "prabha";
+            int b = 123;
             {
 
             }
