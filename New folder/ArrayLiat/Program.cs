@@ -18,6 +18,7 @@ namespace ArrayLiat
             }
             {
                 Console.WriteLine( "a");
+                Console.WriteLine("what is your name");
             }
 
         }
